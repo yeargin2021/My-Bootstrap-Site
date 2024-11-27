@@ -1,0 +1,23 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home Page</title>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      fetch('nav-bar.html')
+              .then(response => response.text())
+              .then(data => {
+                document.getElementById('navbar-container').innerHTML = data;
+              });
+    });
+  </script>
+</head>
+<body>
+<div id="navbar-container"></div>
+<main>
+  <!-- Page content -->
+</main>
+</body>
+</html>
