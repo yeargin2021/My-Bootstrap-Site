@@ -5,149 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c8f720b-c1ca-41f3-8cf8-b65f01551b4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MyBootstrapSite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/album-rtl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/album/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/assets/brand/bootstrap-logo-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/assets/brand/bootstrap-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/assets/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/assets/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/assets/dist/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/assets/dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/assets/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/assets/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/assets/js/color-modes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/badges/badges.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/badges/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/blog-rtl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/blog/blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/blog/blog.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/breadcrumbs/breadcrumbs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/breadcrumbs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/buttons/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/carousel-rtl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/carousel/carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/carousel/carousel.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/carousel/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/cheatsheet-rtl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/cheatsheet/cheatsheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/cheatsheet/cheatsheet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/cheatsheet/cheatsheet.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/cheatsheet/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/checkout-rtl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/checkout/checkout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/checkout/checkout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/checkout/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/cover/cover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/cover/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/dashboard-rtl/dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/dashboard-rtl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/dashboard/dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/dashboard/dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/dashboard/dashboard.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/dashboard/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/dropdowns/dropdowns.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/dropdowns/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/features/features.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/features/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/features/unsplash-photo-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/features/unsplash-photo-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/features/unsplash-photo-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/footers/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/grid/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/grid/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/headers/headers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/headers/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/heroes/bootstrap-docs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/heroes/bootstrap-themes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/heroes/heroes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/heroes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/jumbotron/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/jumbotrons/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/jumbotrons/jumbotrons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/list-groups/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/list-groups/list-groups.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/masonry/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/modals/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/modals/modals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/navbar-bottom/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/navbar-fixed/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/navbar-fixed/navbar-fixed.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/navbar-static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/navbar-static/navbar-static.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/navbars-offcanvas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/navbars-offcanvas/navbars-offcanvas.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/navbars/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/navbars/navbars.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/offcanvas-navbar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/offcanvas-navbar/offcanvas-navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/offcanvas-navbar/offcanvas-navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/offcanvas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/pricing/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/pricing/pricing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/product/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/product/product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/sidebars/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/sidebars/sidebars.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/sidebars/sidebars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/sign-in/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/sign-in/sign-in.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/starter-template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/sticky-footer-navbar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/sticky-footer-navbar/sticky-footer-navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/sticky-footer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-5.3.3-examples/sticky-footer/sticky-footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nav-bar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navbars.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sandbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nav-bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navbars.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,11 +24,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="menu_bar_" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2pQDpb92igJwTuLPWM47cc6HlME" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -191,6 +58,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -219,6 +87,8 @@
       <option name="presentableId" value="Default" />
       <updated>1732689590392</updated>
       <workItem from="1732689591640" duration="3738000" />
+      <workItem from="1732916373860" duration="49000" />
+      <workItem from="1732916428851" duration="1447000" />
     </task>
     <servers />
   </component>
