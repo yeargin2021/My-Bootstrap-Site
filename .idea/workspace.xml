@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c8f720b-c1ca-41f3-8cf8-b65f01551b4f" name="Changes" comment="">
+    <list default="true" id="1c8f720b-c1ca-41f3-8cf8-b65f01551b4f" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/insert-this.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nav-bar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/navbars.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +29,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "yeargin2021"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yeargin2021/My-Bootstrap-Site.git",
+    "accountId": "8fead4c6-e5db-441a-b325-28371e9d1492"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -88,11 +98,24 @@
       <updated>1732689590392</updated>
       <workItem from="1732689591640" duration="3738000" />
       <workItem from="1732916373860" duration="49000" />
-      <workItem from="1732916428851" duration="1447000" />
+      <workItem from="1732916428851" duration="2357000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1732917929061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732917929061</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
